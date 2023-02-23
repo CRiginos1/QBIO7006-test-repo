@@ -9,3 +9,6 @@ Followed by a line written from afar...
 ... and then pushed back up again.
 
 A careless footprint or two, for the lonely sandbox
+
+Another addition to the readme from the command line... how do I exit Vim 
+again?
