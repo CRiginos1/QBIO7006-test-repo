@@ -13,6 +13,8 @@ A careless footprint or two, for the lonely sandbox
 Another addition to the readme from the command line... how do I exit Vim 
 again?
 
+adding a very useful line
+
 just another test
 
 testing github desktop
