@@ -10,26 +10,4 @@ Followed by a line written from afar...
 
 A careless footprint or two, for the lonely sandbox
 
-Another addition to the readme from the command line... how do I exit Vim
-again?
-<<<<<<< Updated upstream
 
-adding a very useful line
-
-just another test
-
-testing github desktop
-
-editing readme file...
-edit
-=======
-making a comment using gitKraken.
->>>>>>> Stashed changes
-
-Chris was here!
-
-Sending another commit back to the Git!
-
-Testing git gitKraken
-
-adding line to readme file x3
