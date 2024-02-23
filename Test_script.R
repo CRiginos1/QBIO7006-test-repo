@@ -3,3 +3,6 @@
 library(ggplot2)
 
 x <- seq(1,1000,0.5)
+y ='sam'
+print(y)
+
