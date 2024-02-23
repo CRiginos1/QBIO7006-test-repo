@@ -17,3 +17,5 @@ Hello!
 Hi, I'm Le Na.
 
 Hi, I'm trying to add something manually.
+
+Cynthia pushing from desktop through Github Desktop!
